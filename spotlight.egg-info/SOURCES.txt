@@ -1,0 +1,13 @@
+README.rst
+setup.py
+spotlight/__init__.py
+spotlight.egg-info/PKG-INFO
+spotlight.egg-info/SOURCES.txt
+spotlight.egg-info/dependency_links.txt
+spotlight.egg-info/top_level.txt
+spotlight/lib/__init__.py
+spotlight/lib/core.py
+spotlight/system/__init__.py
+spotlight/system/core.py
+spotlight/utils/__init__.py
+spotlight/utils/utilities.py
